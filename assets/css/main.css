@@ -116,7 +116,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.55);
-		font-family: FontAwesome, sans-serif;
+		font-family: Tahoma, sans-serif;
 		font-size: 16.5pt;
 		font-weight: normal;
 		line-height: 1.75;
@@ -2413,7 +2413,7 @@ input, select, textarea {
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: Tahoma;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2488,7 +2488,7 @@ input, select, textarea {
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: Tahoma;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2808,7 +2808,7 @@ input, select, textarea {
 				ul.icons li > a:before, ul.icons li > span:before {
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
-					font-family: FontAwesome;
+					font-family: Tahoma;
 					font-style: normal;
 					font-weight: normal;
 					text-transform: none !important;
@@ -3414,7 +3414,7 @@ input, select, textarea {
 
 			#header {
 				padding: 1em 2em;
-				font-size: 0.8em;
+				font-size: 1em;
 			}
 
 		}
